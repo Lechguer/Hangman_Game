@@ -1,7 +1,6 @@
 # 🎯 Hangman Game (C)
 
-A simple **console-based Hangman game** written in **C**, where players guess letters to uncover a hidden word before running out of attempts.  
-This project is designed for learning purposes and showcases core C programming concepts.
+A simple **console-based Hangman game** written in **C**, where players guess letters to uncover a hidden word before running out of attempts. This project is designed for learning purposes and showcases core C programming concepts.
 
 ---
 
